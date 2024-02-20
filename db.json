@@ -1,8 +1,9 @@
 {
   "languages": {
     "react": {
-    "icon": "react.svg",
-    "content": "React.js",
-    "color": "#61DAFB"
+      "icon": "react.svg",
+      "content": "React.js",
+      "color": "#61DAFB"
+    }
   }
 }
