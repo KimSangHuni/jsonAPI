@@ -4,6 +4,14 @@
         "icon": "react.svg",
         "content": "React.js",
         "color": "#61DAFB"
+      }, {
+        "icon": "javascript.svg",
+        "content": "JavaScript",
+        "color": "#F7DF1E"
+      }, {
+        "icon": "typescript.svg",
+        "content": "TypeScript",
+        "color": "#3178C6"
       }
   ]
 }
