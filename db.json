@@ -1,5 +1,6 @@
 {
-  "react": {
+  "languages": {
+    "react": {
     icon: "react.svg",
     content: "React.js",
     color: "#61DAFB"
